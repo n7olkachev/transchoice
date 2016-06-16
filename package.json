@@ -1,0 +1,24 @@
+{
+  "name": "transchoice",
+  "version": "1.0.0",
+  "description": "symfony/laravel transChoice function in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n7olkachev/transchoice.git"
+  },
+  "keywords": [
+    "symfony",
+    "laravel",
+    "translation"
+  ],
+  "author": "Nick Tolkachev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/n7olkachev/transchoice/issues"
+  },
+  "homepage": "https://github.com/n7olkachev/transchoice#readme"
+}
